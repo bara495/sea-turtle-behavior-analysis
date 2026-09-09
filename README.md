@@ -25,4 +25,6 @@ breathing classification, and the mobility/heatmap analysis) will be added here.
 ## Authors
 
 - **Marko Barišić** — University of Zagreb, FER, Laboratory for Underwater Systems and Technologies (LABUST)
+- **Yaniv Levi** — Sea Turtle Rescue Center, National Nature and Parks Authority, Israel
+- **Nikola Mišković** — University of Zagreb, FER
 - **Roee Diamant** — University of Haifa
